@@ -1,0 +1,9 @@
+Package: moe.waru.shisha
+Name: Shisha
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Add scrolling and parallax effects to your wallpaper
+Maintainer: waruhachi
+Author: waruhachi
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
